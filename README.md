@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Van Gogh, Latidos e Blefes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A inteligência artificial é uma ferramenta incrível que nos permite explorar a essência de artistas como Van Gogh de maneiras inovadoras. Com sua capacidade de analisar e recriar padrões, ela consegue gerar imagens que capturam o estilo único do pintor, seja qual for o tema. Embora não substitua a visão emocional de um artista, a IA amplia as possibilidades criativas, oferecendo novas formas de experimentar a arte. É como uma homenagem moderna, onde tecnologia e criatividade se encontram. A IA não é Van Gogh, mas é uma ponte para imaginarmos como ele poderia pintar o mundo hoje. Isso é fascinante!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gemini 1.5 Flash através do Imagen 3
+- ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Nesse projeto quis colocar o trabalho limpo da I.A, usando apenas engenharia de prompet para que ela fizesse oque pedi da forma mais acertiva possível sem ter que fazer muitos retoques e apenas fazer a validação. Com gemini orientei a criação da imagem e após solicitei que para criasse um título que estivesse alinhado a imagem que criou.
+Com chatGPT usando novamente apenas técnicas de engenharia de prompt pedi a criação do texto de descrição e ela fez sua mágica!
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![gogh dogs](https://github.com/user-attachments/assets/db7c717f-4f8b-4c48-a2f9-21bb3842b02b)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão 
+O projeto abre muitas possibilidades do que podemos fazer com I.A., um projeto simples, mas que expande muito a mente do que pode ser feito com essa incrível tecnologia que vem cada vez mais se desenvolvendo e ultrapassando barreiras. Este projeto intesifica muito isso quando olhamos para uma arte criada a partir dos dados que a I.A. tem do pintor e consegue retratar alguns padrões de suas obras que são únicas.
